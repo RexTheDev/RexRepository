@@ -68,8 +68,8 @@ public class Main extends JavaPlugin
 			Player player = (Player) sender;
 			
 			if(cmd.getName().equalsIgnoreCase("info"))
-			{
-				
+			
+			
 				try 
 				{
 					getInfo(player);
